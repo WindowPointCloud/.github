@@ -1,4 +1,6 @@
-## Hi there 👋
+## ☁️Point Cloud Detection System Implementation on Windows
+
+Majority of existing point cloud detection frameworks are implemented and polished for linux/ubuntu system, including our prefered OpenPCDet framework. Hence, this repo is mainly designed to migrate OpenPCDet to Window.
 
 <!--
 
